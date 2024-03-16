@@ -1,0 +1,77 @@
+
+.white {
+    display: flex;
+    border: red dotted 1px;
+    padding: 20px 40px;
+    width: 1120px;
+    justify-content: center;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+p {
+    font-size: 19px;
+    color: gray;
+}
+
+.one {
+    width: 1000px;
+    height: 500px;
+    justify-content: center;
+    padding: 5px 10px 0px 10px;
+}
+
+.A {
+    border: 1px dotted red;
+}
+
+.a {
+    border: 1px dotted red;
+    width: 380px;
+    height: 300px;
+    margin: 100px 0px 0px 30px;
+}
+
+
+.two {
+    border: dotted red 1px;
+    display: flex;
+    justify-content: space-around;
+    width: 1200px;
+    padding: 50px 0px 10px 0px;
+}
+
+.three {
+    text-align: left;
+}
+
+.four {
+    text-align: left;
+}
+
+section {
+    display: flex;
+}
+
+.sixObjects {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.card {
+    text-align: left;
+}
+
+.firstIMG {
+    height: 400px;
+}
+
+article {
+    width: 250px;
+}
+
+.logo {
+    height: 25px;
+}
